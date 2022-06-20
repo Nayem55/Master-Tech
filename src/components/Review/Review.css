@@ -1,0 +1,36 @@
+.review{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+    background-color: #3386d92f;
+    padding: 30px;
+    border-radius: 10px;
+    position: relative;
+    
+}
+.review img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin: 10px;
+    position: absolute;
+    bottom: 70px;
+
+}
+.review .rating{
+    position: absolute;
+    bottom: 30px;
+}
+
+.review p{
+    text-align: center;
+}
+
+.review:hover{
+    background-color: #3385D9;
+    color: white;
+    box-shadow: 5px 5px 10px gray;
+    translate: 10px;
+}

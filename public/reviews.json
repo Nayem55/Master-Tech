@@ -1,0 +1,86 @@
+[
+    {
+        "id": "user1",
+        "thumb": "https://thypix.com/wp-content/uploads/2021/10/grey-anime-profile-picture-thypix-49-700x700.jpg",
+        "name": "Felisa Ison",
+        "comment": "I have an ideapad with a 2.9ghz i5, 8gb ram and a 256gb SSD with a 14″ screen and does me fine for doing some university work and working on a few personal programming projects and I'm happy with it. All depends on your budget and use requirements really.",
+        "rating": "5.0"
+    },
+    {
+        "id": "user2",
+        "thumb": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/e49e07de9afaacdbb4bf450e1b81dfee-1583413624/fiverr2/draw-an-anime-manga-styled-profile-picture.png",
+        "name": "Libbie Mcintire",
+        "comment": "yeah , Lenovo Ideapad 510 is good laptop with 15.6 inch FHD display , Core i5, 8GB RAM, 1TB HDD and 4GB graphics card.I am using this same laptop for development, working perfectly.",
+        "rating": 4.2
+    },
+    {
+        "id": "user3",
+        "thumb": "https://cdn-icons-png.flaticon.com/512/147/147140.png",
+        "name": "Michael Bourne",
+        "comment": "I would say Lenovo Ideapad slim 3i is a must buy laptop this 2020. Like If you talk about the Lenovo Ideapad slim 3i it can easily be described in three words as Sleek, affordable and power pack performance laptop.",
+        "rating": 4.5
+    },
+    {
+        "id": "user4",
+        "thumb": "https://www.pngitem.com/pimgs/m/192-1926160_transparent-ajax-png-anime-profile-png-download.png",
+        "name": "Keiko Wilks",
+        "comment": "This one of the best laptop with really good specs that I've ever used in my life",
+        "rating": 4.3
+    },
+    {
+        "id": "user5",
+        "thumb": "https://www.kindpng.com/picc/m/137-1370686_anime-avatar-png-transparent-avatar-gaming-logo-png.png",
+        "name": "Karol Dorman",
+        "comment": "In my humble opinion. Go for it! Even if it’s not what you want to use in long term, for short term use or at least as a backup it will be a great device. Specially considering that I just found a new one on Amazon for over $500.",
+        "rating": 4.5
+    },
+    {
+        "id": "user6",
+        "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Wre-MFXkozPI8xMsLlwcIcWKt0Yr7HwrARO6uMPXnL16OV6uP7EQSd7vkKQbU_x2GfU&usqp=CAU",
+        "name": "Tamekia Carney",
+        "comment": "That seems to be a solid pick, the Core i5 is no slouch, and the 8GB of RAM is on par with most high end laptops. The only trade off is that Hard Drive. ",
+        "rating": 4.6
+    },
+    {
+        "id": "user7",
+        "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSg2_DeXtwoQAChl-pVQXM79WMnongV5l92Q&usqp=CAU",
+        "name": "Raylene Armijo",
+        "comment": "This can be a good laptop for coding. But you can also go for a SSD(Solid State Drive) memory type because it is very fast than HD(Hard Drive). The laptop's rebooting time is very less with SSD.",
+        "rating": 4.1
+    },
+    {
+        "id": "user8",
+        "thumb": "https://yt3.ggpht.com/ytc/AKedOLRpe2Lbdy5gdRrTFKEK2ZvC1cQSv1gxjx7lV0_Nkg=s900-c-k-c0x00ffffff-no-rj",
+        "name": "Deedee Snodgrass",
+        "comment": "lenovo is one of the top companies in terms of laptops. they provide a range of laptops where we can choose the best one for us. especially when it comes to ideapad. they are even more updated than the other products of Lenovo.",
+        "rating": 4.8
+    },
+    {
+        "id": "user9",
+        "thumb": "https://pbs.twimg.com/profile_images/1072386178924597251/qtv5-fYy_400x400.jpg",
+        "name": "Pattie Goode",
+        "comment": "Brand is good , engineers and service personals are also friendly with limited knowledge , but it's relaible considering the cheap after sales of brands like Asus…go for Lenovo ideapad.",
+        "rating": 4.9
+    },
+    {
+        "id": "user10",
+        "thumb": "https://pm1.narvii.com/7017/5d321c168391be05973bcebf0ddca062245bce9dr1-2000-2000v2_hq.jpg",
+        "name": "Olevia Wingfield",
+        "comment": "I bought my Lenovo IdeaPad back in 2015, and until now it is still working fine. I use it to edit photos using Photoshop. My kids use it to watch movies. It's a workhorse in our home.",
+        "rating": 4.4
+    },
+    {
+        "id": "user11",
+        "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSju2yUPA-c6DyowH7-agJrHj46gpL69HdyLA&usqp=CAU",
+        "name": "Elly Short",
+        "comment": "Lenovo offers the best build quality in there laptops. Ideapad is a great laptop for new users. I've used Acer, Asus, Hp, Dell and Lenovo and I must say that Lenovo and Dell have the best build quality in all.",
+        "rating": 4.5
+    },
+    {
+        "id": "user12",
+        "thumb": "https://qph.cf2.quoracdn.net/main-qimg-54166a525ee4fb3097d260173688c157.webp",
+        "name": "Jaclyn Rawlings",
+        "comment": "The specs are pretty decent and even the price looks reasonable for those specs. It is worth the money.",
+        "rating": "5.0"
+    }
+]

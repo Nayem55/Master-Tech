@@ -1,0 +1,33 @@
+.img{
+    width: 800px;
+    height: 60vh;
+}
+.img-text{
+    padding-left: 80px;
+}
+.img-text p{
+    color: rgba(0, 0, 0, 0.671);
+}
+.product span{
+    color: #3385D9;
+}
+
+.home-review{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.btn{
+    text-decoration: none;
+    width: 180px;
+    margin: 30px auto;
+    margin-bottom: 40px;
+    padding: 10px;
+    background-color: lightblue;
+}
+.btn:hover{
+    background-color: #3385D9;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.reviews{
+    width:15vw ;
+    margin: 40px auto;
+    display: grid; 
+    grid-template-columns: repeat(2,1fr);
+    gap: 80px;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    margin-top: 20px;
+    color: rgba(68, 66, 66, 0.815);
+    font-size: 36px;
+}

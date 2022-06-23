@@ -66,7 +66,7 @@ const Dashboard = () => {
     <div className="charts">
       <div className="line">
         <h2 className="text-center">Investment VS Revenue</h2>
-        <LineChart
+        <LineChart className="text-center"
           width={700}
           height={400}
           data={data}
@@ -79,15 +79,15 @@ const Dashboard = () => {
           <Line
             type="monotone"
             dataKey="investment"
-            stroke="#8884d8"
+            stroke="gray"
             activeDot={{ r: 8 }}
           />
-          <Line type="monotone" dataKey="revenue" stroke="#82ca9d" />
+          <Line type="monotone" dataKey="revenue" stroke="#3385D9" />
         </LineChart>
       </div>
       <div className="area">
         <h2 className="text-center">Investment VS Revenue</h2>
-        <AreaChart
+        <AreaChart className="text-center"
           width={700}
           height={400}
           data={data}
@@ -100,14 +100,14 @@ const Dashboard = () => {
           <Area
             type="monotone"
             dataKey="investment"
-            stroke="#8884d8"
-            fill="#8884d8"
+            stroke="lightBlue"
+            fill="lightBlue"
           />
           <Area
             type="monotone"
             dataKey="revenue"
-            stroke="#8884d8"
-            fill="#8884d8"
+            stroke="#3385D9"
+            fill="#3385D9"
           />
         </AreaChart>
       </div>

@@ -25,9 +25,27 @@
     margin: 30px auto;
     margin-bottom: 40px;
     padding: 10px;
-    background-color: lightblue;
+    background-color: #3386d92f;
+    border-radius: 5%;
 }
 .btn:hover{
     background-color: #3385D9;
     color: white;
+}
+.img-text button{
+    background-color: #3386d92f;
+    font-size: large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+.img-text button .icon{
+    margin-left: 5px;
+}
+.img-text button:hover{
+    background-color: #3385D9;
+    color : white;
 }
